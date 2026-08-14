@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ukmgjb.juragan89site.store/sitemap.xml
